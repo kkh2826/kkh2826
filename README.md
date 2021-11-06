@@ -1,5 +1,8 @@
-### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkh2826&show_icons=true&theme=radical)  
+[![Tech Blog Badge](http://img.shields.io/badge/-React-blue?style=flat-square&logo=react&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Django-black?style=flat-square&logo=django&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-CSharp-green?style=flat-square&logo=CSHARP&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 <!--
 **kkh2826/kkh2826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
